@@ -5,8 +5,8 @@
 <h4 align="center">记录精彩的程序人生</h4>
 <p align="center"><a title="程艺的个人博客" target="_blank" href="https://github.com/aopstudio/solo-blog"><img src="https://img.shields.io/github/last-commit/aopstudio/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/aopstudio/solo-blog"><img src="https://img.shields.io/github/repo-size/aopstudio/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/aopstudio/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/aopstudio/solo-blog.svg"></a></p>
 
 ### 最新
 
@@ -43,8 +43,8 @@
 * [操作系统复习笔记（二）——Process & Thread](https://neusoftware.top/articles/2019/01/30/1548848140833.html)
 * [为什么Markdown能夺得程序员的青睐](https://neusoftware.top/articles/2018/12/10/1544451683372.html)
 * [毛概复习笔记](https://neusoftware.top/articles/2019/01/14/1547440374028.html)
-* [移动互联笔记](https://neusoftware.top/articles/2018/12/10/1544410347829.html)
 * [VB.NET学习体会](https://neusoftware.top/articles/2018/12/08/1544265564840.html)
+* [移动互联笔记](https://neusoftware.top/articles/2018/12/10/1544410347829.html)
 * [编程究竟是怎么回事（二）——汇编语言](https://neusoftware.top/articles/2018/12/07/1544188715858.html)
 * [编程究竟是怎么回事（一）——高级语言](https://neusoftware.top/articles/2018/12/07/1544187392270.html)
 * [以找计算机专业资料的角度来对比百度和谷歌](https://neusoftware.top/articles/2018/12/19/1545234364411.html)
@@ -54,4 +54,4 @@
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
